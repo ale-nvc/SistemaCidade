@@ -94,26 +94,26 @@ Por exemplo, o mesmo `Morador` pode virar `Paciente` ao ir ao Hospital, ou `Alun
 ### Diagrama de Classes
 Mostra as classes de cada módulo e seus relacionamentos.
 
-![Diagrama de Classes](diagramas/diagrama_classes.png)
+![Diagrama de Classes](src/diagramas/diagrama_classes.png)
 
 ### Diagrama de Pacotes
 Mostra a separação lógica dos módulos e suas dependências.
 
-![Diagrama de Pacotes](diagramas/diagrama_pacotes.png)
+![Diagrama de Pacotes](src/diagramas/diagrama_pacotes.png)
 
 ### Diagrama de Componentes
 Mostra os componentes do sistema e como eles dependem uns dos outros.
 
-![Diagrama de Componentes](diagramas/diagrama_componentes.png)
+![Diagrama de Componentes](src/diagramas/diagrama_componentes.png)
 
 ### Diagrama de Sequência
 Mostra a interação entre os módulos quando um Morador vai à Escola.
 
-![Diagrama de Sequência](diagramas/diagrama_sequencia.png)
+![Diagrama de Sequência](src/diagramas/diagrama_sequencia.png)
 
 ---
 
-## ▶Como executar
+## Como executar
 
 1. Clone o repositório:
 ```bash
